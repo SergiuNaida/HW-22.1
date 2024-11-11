@@ -16,12 +16,6 @@ h2 {
 p {
   text-align: center;
   color: red;
-  border-style: groove;
-  border-width: 5px;
-  border-color: black;
-  width: 50%;
-  height: 30px;
-  outline-style: dotted;
 }
 
 .center {
@@ -31,21 +25,4 @@ p {
 
 * {
   color: rgb(255, 0, 140);
-}
-#Button { 
-  color: chocolate;
-  margin: 70px;
-  padding: 30px;
-}
-
-p a{
-  color: darkgray;
-}
-
-div a{
-  color: azure;
-}
-
-p>a{
-  color: brown;
 }
